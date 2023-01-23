@@ -66,7 +66,7 @@ const Experience = () => {
           <p className="text-left text-xl mt-3">
             Completed two Graduate Certificates: Computer Applications
             Development (GPA: 3.91), and Computer Application Security (GPA:
-            3.88).
+            3.75).
           </p>
         </motion.div>
 
